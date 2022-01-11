@@ -17,4 +17,8 @@ class MainActivity : AppCompatActivity() {
     fun addfnc1(){
         print("add fnc1")
     }
+
+    fun addfnc2() {
+        print("add fnc2")
+    }
 }
