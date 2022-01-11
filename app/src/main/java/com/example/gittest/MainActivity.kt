@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         print("master branch")
         print("add develop branch")
+        print("bug fixed")
 
 
     }
