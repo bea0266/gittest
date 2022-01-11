@@ -10,5 +10,11 @@ class MainActivity : AppCompatActivity() {
 
         print("master branch")
         print("add develop branch")
+
+
+    }
+
+    fun addfnc1(){
+        print("add fnc1")
     }
 }
